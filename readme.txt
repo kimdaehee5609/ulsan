@@ -1,8 +1,16 @@
 # ulsan
 
-김대희 울산지사 업무
+git clone https://github.com/kimdaehee5609/ulsan.git
 
-2022.7.10.일
- 
+2022.08.14.토
+
+
+울산 지사
+
+
+git pull
+
+
+
 
 
